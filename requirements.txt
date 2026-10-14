@@ -1,0 +1,11 @@
+# Python 3.12.14 usado en la verificación del 13 de octubre de 2026
+numpy==2.3.5
+pandas==2.2.3
+scipy==1.18.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+seaborn==0.13.2
+statsmodels==0.15.0
+joblib==1.6.0
+IPython==9.17.1
+nbformat==5.11.1
